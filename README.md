@@ -1,1 +1,1 @@
-# HR-App
+# Employee Attrition ShinyApp
